@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav {
+  float: left;
+  width: 20%;
+  height: 300px;  /*only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
