@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" type="text/css" href="leftMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="leftMenu/leftMenuStyle.css">
 </head>
 <body>
    <nav>

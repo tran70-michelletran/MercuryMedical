@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%@ include file="header.jsp" %> 
-<%@ include file="patientMenu.jsp" %> 
+<%@ include file="header/header.jsp" %> 
+<%@ include file="leftMenu/patientMenu.jsp" %> 
 
 </body>
 </html>
